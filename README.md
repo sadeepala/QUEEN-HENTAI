@@ -17,11 +17,11 @@ Dark king bot ©sadeepa lakshan
 
 1. 🇱🇰 Fork dark king Git 🇱🇰
     <br>
-<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img src="https://m.facebook.com/story.php?story_fbid=pfbid02eUT2mGsBxfnbm7tbD5kNLxUXxW5KufnKDEdDzrE8TXxbokZrsgsc1c2pyH1BVUVBl&id=100081131943857&sfnsn=mo"/></a>
+<a href=''  
 
-2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
+2. Scan The QR And Upload sadeepa lakshan bot To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
-<a href='https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src=''/></a>
 
 ### a little about this bot
 - ✔️ | **Simple** 
