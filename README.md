@@ -1,6 +1,6 @@
-# 💝 QUEEN HENTAI 💝
+# ⚠️DARK KING⚠️
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+QUEEN-HENTAI ;Multi+Device+Whatsapp+Bot;Coded+By+💝Dinuwa+Official💝" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://m.facebook.com/story.php?story_fbid=pfbid02eUT2mGsBxfnbm7tbD5kNLxUXxW5KufnKDEdDzrE8TXxbokZrsgsc1c2pyH1BVUVBl&id=100081131943857&sfnsn=mo"/></a>
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">
@@ -12,16 +12,12 @@
 <p align="center">
 <a 
 
-####  
-QUEEN HENTAI Multi Device Whatsapp Bot.
-
-***
+Dark king bot ©sadeepa lakshan
 
 
-
-1. 🇱🇰 Fork Queen Hentai Git 🇱🇰
+1. 🇱🇰 Fork dark king Git 🇱🇰
     <br>
-<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img src="https://m.facebook.com/story.php?story_fbid=pfbid02eUT2mGsBxfnbm7tbD5kNLxUXxW5KufnKDEdDzrE8TXxbokZrsgsc1c2pyH1BVUVBl&id=100081131943857&sfnsn=mo"/></a>
 
 2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -31,11 +27,12 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
 - ✔️ | **Simple** 
 - ✔️ | **Button Template** 
 - ✔️ | **Multi Device** 
-- ✔️ | **Button Document(Experiment)** 
+- ✔️ | **Button Document(Experiment)**
+- ⚠️ only sadeepa lakshan
 ---------
 
 ## ``Support Group``
-[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S) 
+[![WHATSAPP]([log](https://img.shields.io/badge/Suppohttps://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitert%20Group-25D366?style=for-the-badge&)o=whatsapp&logoColor=white)]() 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
